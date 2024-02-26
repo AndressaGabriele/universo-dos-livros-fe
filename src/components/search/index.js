@@ -28,13 +28,13 @@ const Result = styled.div`
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     cursor: pointer;
     p {
         width: 200px;
     }
     img {
-        width: 100px;
+        width: 70px;
     }
    
 `
